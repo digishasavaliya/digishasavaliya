@@ -1,5 +1,5 @@
 
-# 👨‍💻 About Me<br><br>I am an Information Technology student passionate about software development, Artificial Intelligence, and problem-solving.<br><br>I have experience in C++, Java, Python, JavaScript, Web Development, and Machine Learning. I enjoy building real-world projects, learning new technologies, and improving my programming skills every day.<br><br>Currently, I am focusing on:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 💻 Data Structures & Algorithms<br>- ⚡ Backend Development<br>- 🚀 Building impactful projects<br><br>My goal is to become an AI Engineer and contribute to innovative technologies that solve real-world problems.<br><br>
+### 👨‍💻 About Me<br><br>I am an Information Technology student passionate about software development, Artificial Intelligence, and problem-solving.<br><br>I have experience in C++, Java, Python, JavaScript, Web Development, and Machine Learning. I enjoy building real-world projects, learning new technologies, and improving my programming skills every day.<br><br>Currently, I am focusing on:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 💻 Data Structures & Algorithms<br>- ⚡ Backend Development<br>- 🚀 Building impactful projects<br><br>My goal is to become an AI Engineer and contribute to innovative technologies that solve real-world problems.<br><br>
 
 
 ## 🌐 Socials:
